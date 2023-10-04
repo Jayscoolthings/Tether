@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 41c7f888198b7824c971f28883c2a36d, type: 3}
+  m_Name: TrelloPosterExample
+  m_EditorClassIdentifier: 
+  key: e8ffcc1d4b3fc76eae0d69e84ad3fafd
+  token: 1dbad0a2bcd66d7916b742e0ceada68aa95415daf8848d5497a662406fb4bcd1
+  boardId: 5daa10d0ad52821d0a670251
+  cardLists:
+  - name: Bug Reports
+    id: 5f7663aa8e75be33c9ffd3a0
+  cardLabels:
+  - name: Bug Reports
+    id: 5daa10d08bdee58e0d2e167e
